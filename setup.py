@@ -10,3 +10,4 @@ setup(name='dictshield',
       author_email='jdennis@gmail.com',
       url='http://github.com/j2labs/dictshield',
       packages=['dictshield', 'dictshield.fields'])
+end
